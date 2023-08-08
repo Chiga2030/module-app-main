@@ -1,0 +1,3 @@
+[submodule "module-app-module"]
+	path = module-app-module
+	url = https://github.com/Chiga2030/module-app-module
